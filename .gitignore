@@ -1,0 +1,22 @@
+# Environnements Virtuels
+.env
+.venv
+env/
+venv/
+
+# Fichiers compilés Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Fichiers d'OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+
+
+data/raw/
+
